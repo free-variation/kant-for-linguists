@@ -1,0 +1,20 @@
+graph {
+	node[shape = plaintext];
+	Cognition[label = "Cognition\n[objective perception]"];
+	Concept[label = "Concept\n[mediate, generic]"];
+	Intuition[label = "Intuition\n[immediate, singular]"];
+
+	Representation -- Unconscious;
+	Representation -- Conscious;
+	Conscious -- "Sensation\n[subjective perception]";
+	Conscious -- Cognition;
+	Cognition -- Intuition;
+	Intuition -- "Empirical\nPerception";
+	Intuition -- "A Priori";	
+	Cognition -- Concept;
+	Concept -- Empirical;
+	Concept -- Pure;
+	Pure -- Notion;
+	Notion -- "Idea\n[set of notions]";
+}
+
