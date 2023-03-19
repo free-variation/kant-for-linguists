@@ -22,8 +22,8 @@ For all their disagreements, the rationalists and empiricists of the seventeenth
 
 Kant frequently uses the term "representation", seemingly as the most general name for mental states or "constituent or element of cognition" { | Gardner, 1999 | p. 29| |zu:243096:GS4D2WGD}. If consciousness, in its essence, is consciousness OF (something), then that something is a representation.  Kant organizes the various types of representations into the following taxonomy (A320/B376):
 
+ ![kant_rep dot](https://user-images.githubusercontent.com/516801/226211838-f3c39329-95c7-4c6f-b664-e277feeb6374.png)
 
-[FIXME diagram]    
 
 
 **Sensibility** is the faculty that yields sensations, subjective representations in response to stimuli from outside or inside (e.g. feelings).  Sensations are subjective because, on their own, they simply describe the effect of stimuli on the subject, without referring consciousness to their sources.  Sensation is thus the phenomenal content of representations, their **matter**, intrinsic to the experience of objects and individual and non-relational.  **Form** by contrast denotes the structure of a representation, the relations between its components and how as a whole it relates to other representations. 
